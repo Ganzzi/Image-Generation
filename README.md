@@ -9,7 +9,7 @@ To run the application locally, follow these steps:
 2. Move into server folder: ``` cd Image-Generation\server ```
 3. Install: ``` npm install ``` or ``` yarn install ```
 4. Start: ``` npm start ```
-5. Provide some local variable in .env file
+5. Rename .env.example to .env, provide some local variable in .env file
 6. Open new terminal in client folder
 7. Install: ``` npm install ``` or ``` yarn install ```
 8. Start: ``` npm run dev ```
